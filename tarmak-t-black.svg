@@ -1,0 +1,1019 @@
+<svg width="339" height="345" viewBox="0 0 339 345" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Tarmak letter T - Black</title>
+  <desc>Standalone first letter T from the original Tarmak logo with full internal mesh preserved in black.</desc>
+  <defs>
+    <clipPath id="wordmarkClip" clipPathUnits="userSpaceOnUse">
+    <path d="M144 109C144 197.84 144 339 144 339H195V109C203.4 83.31 216.54 76.08 242 75C266.93 74.39 284.7 90.42 292 109H339C332.17 87.26 326.24 75.76 301.5 59C265.87 37.95 245.46 36.08 208.5 45.5L169.5 0L130.5 45.5C93.54 36.08 73.13 37.95 37.5 59C12.76 75.76 6.83 87.26 0 109H47C54.3 90.42 72.07 74.39 97 75C122.46 76.08 135.6 83.31 144 109Z"/>
+    </clipPath>
+  </defs>
+  <style>
+    .mesh {
+      stroke: #101212;
+      stroke-linecap: round;
+    }
+    .node,
+    .node-cool,
+    .node-warm,
+    .node-bright {
+      fill: #101212;
+    }
+  </style>
+  <g clip-path="url(#wordmarkClip)">
+    <rect width="1569" height="345" fill="#101212" opacity="0.02"/>
+    <g>
+    <line class="mesh" x1="18" y1="24" x2="104" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="18" y1="24" x2="61" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="18" y1="24" x2="147" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="18" y1="24" x2="18" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="104" y1="24" x2="190" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="104" y1="24" x2="147" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="104" y1="24" x2="61" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="104" y1="24" x2="233" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="104" y1="24" x2="104" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="190" y1="24" x2="276" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="190" y1="24" x2="233" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="190" y1="24" x2="147" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="190" y1="24" x2="319" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="190" y1="24" x2="190" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="276" y1="24" x2="362" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="276" y1="24" x2="319" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="276" y1="24" x2="233" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="276" y1="24" x2="405" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="276" y1="24" x2="276" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="362" y1="24" x2="448" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="362" y1="24" x2="405" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="362" y1="24" x2="319" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="362" y1="24" x2="491" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="362" y1="24" x2="362" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="448" y1="24" x2="534" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="448" y1="24" x2="491" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="448" y1="24" x2="405" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="448" y1="24" x2="577" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="448" y1="24" x2="448" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="534" y1="24" x2="620" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="534" y1="24" x2="577" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="534" y1="24" x2="491" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="534" y1="24" x2="663" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="534" y1="24" x2="534" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="620" y1="24" x2="706" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="620" y1="24" x2="663" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="620" y1="24" x2="577" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="620" y1="24" x2="749" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="620" y1="24" x2="620" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="706" y1="24" x2="792" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="706" y1="24" x2="749" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="706" y1="24" x2="663" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="706" y1="24" x2="835" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="706" y1="24" x2="706" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="792" y1="24" x2="878" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="792" y1="24" x2="835" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="792" y1="24" x2="749" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="792" y1="24" x2="921" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="792" y1="24" x2="792" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="878" y1="24" x2="964" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="878" y1="24" x2="921" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="878" y1="24" x2="835" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="878" y1="24" x2="1007" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="878" y1="24" x2="878" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="964" y1="24" x2="1050" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="964" y1="24" x2="1007" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="964" y1="24" x2="921" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="964" y1="24" x2="1093" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="964" y1="24" x2="964" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1050" y1="24" x2="1136" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1050" y1="24" x2="1093" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1050" y1="24" x2="1007" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1050" y1="24" x2="1179" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1050" y1="24" x2="1050" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1136" y1="24" x2="1222" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1136" y1="24" x2="1179" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1136" y1="24" x2="1093" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1136" y1="24" x2="1265" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1136" y1="24" x2="1136" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1222" y1="24" x2="1308" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1222" y1="24" x2="1265" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1222" y1="24" x2="1179" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1222" y1="24" x2="1351" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1222" y1="24" x2="1222" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1308" y1="24" x2="1394" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1308" y1="24" x2="1351" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1308" y1="24" x2="1265" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1308" y1="24" x2="1437" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1308" y1="24" x2="1308" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1394" y1="24" x2="1480" y2="24" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1394" y1="24" x2="1437" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1394" y1="24" x2="1351" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1394" y1="24" x2="1523" y2="56" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1394" y1="24" x2="1394" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1480" y1="24" x2="1523" y2="56" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1480" y1="24" x2="1437" y2="56" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1480" y1="24" x2="1480" y2="88" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="61" y1="56" x2="147" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="61" y1="56" x2="18" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="61" y1="56" x2="104" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="61" y1="56" x2="61" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="147" y1="56" x2="233" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="147" y1="56" x2="104" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="147" y1="56" x2="18" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="147" y1="56" x2="190" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="147" y1="56" x2="147" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="233" y1="56" x2="319" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="233" y1="56" x2="190" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="233" y1="56" x2="104" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="233" y1="56" x2="276" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="233" y1="56" x2="233" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="319" y1="56" x2="405" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="319" y1="56" x2="276" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="319" y1="56" x2="190" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="319" y1="56" x2="362" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="319" y1="56" x2="319" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="405" y1="56" x2="491" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="405" y1="56" x2="362" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="405" y1="56" x2="276" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="405" y1="56" x2="448" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="405" y1="56" x2="405" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="491" y1="56" x2="577" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="491" y1="56" x2="448" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="491" y1="56" x2="362" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="491" y1="56" x2="534" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="491" y1="56" x2="491" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="577" y1="56" x2="663" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="577" y1="56" x2="534" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="577" y1="56" x2="448" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="577" y1="56" x2="620" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="577" y1="56" x2="577" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="663" y1="56" x2="749" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="663" y1="56" x2="620" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="663" y1="56" x2="534" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="663" y1="56" x2="706" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="663" y1="56" x2="663" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="749" y1="56" x2="835" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="749" y1="56" x2="706" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="749" y1="56" x2="620" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="749" y1="56" x2="792" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="749" y1="56" x2="749" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="835" y1="56" x2="921" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="835" y1="56" x2="792" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="835" y1="56" x2="706" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="835" y1="56" x2="878" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="835" y1="56" x2="835" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="921" y1="56" x2="1007" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="921" y1="56" x2="878" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="921" y1="56" x2="792" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="921" y1="56" x2="964" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="921" y1="56" x2="921" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1007" y1="56" x2="1093" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1007" y1="56" x2="964" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1007" y1="56" x2="878" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1007" y1="56" x2="1050" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1007" y1="56" x2="1007" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1093" y1="56" x2="1179" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1093" y1="56" x2="1050" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1093" y1="56" x2="964" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1093" y1="56" x2="1136" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1093" y1="56" x2="1093" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1179" y1="56" x2="1265" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1179" y1="56" x2="1136" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1179" y1="56" x2="1050" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1179" y1="56" x2="1222" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1179" y1="56" x2="1179" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1265" y1="56" x2="1351" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1265" y1="56" x2="1222" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1265" y1="56" x2="1136" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1265" y1="56" x2="1308" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1265" y1="56" x2="1265" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1351" y1="56" x2="1437" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1351" y1="56" x2="1308" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1351" y1="56" x2="1222" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1351" y1="56" x2="1394" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1351" y1="56" x2="1351" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1437" y1="56" x2="1523" y2="56" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1437" y1="56" x2="1394" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1437" y1="56" x2="1308" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1437" y1="56" x2="1480" y2="88" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1437" y1="56" x2="1437" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1523" y1="56" x2="1480" y2="88" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1523" y1="56" x2="1394" y2="88" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1523" y1="56" x2="1523" y2="120" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="18" y1="88" x2="104" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="18" y1="88" x2="61" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="18" y1="88" x2="147" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="18" y1="88" x2="18" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="104" y1="88" x2="190" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="104" y1="88" x2="147" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="104" y1="88" x2="61" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="104" y1="88" x2="233" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="104" y1="88" x2="104" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="190" y1="88" x2="276" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="190" y1="88" x2="233" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="190" y1="88" x2="147" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="190" y1="88" x2="319" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="190" y1="88" x2="190" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="276" y1="88" x2="362" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="276" y1="88" x2="319" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="276" y1="88" x2="233" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="276" y1="88" x2="405" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="276" y1="88" x2="276" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="362" y1="88" x2="448" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="362" y1="88" x2="405" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="362" y1="88" x2="319" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="362" y1="88" x2="491" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="362" y1="88" x2="362" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="448" y1="88" x2="534" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="448" y1="88" x2="491" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="448" y1="88" x2="405" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="448" y1="88" x2="577" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="448" y1="88" x2="448" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="534" y1="88" x2="620" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="534" y1="88" x2="577" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="534" y1="88" x2="491" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="534" y1="88" x2="663" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="534" y1="88" x2="534" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="620" y1="88" x2="706" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="620" y1="88" x2="663" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="620" y1="88" x2="577" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="620" y1="88" x2="749" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="620" y1="88" x2="620" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="706" y1="88" x2="792" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="706" y1="88" x2="749" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="706" y1="88" x2="663" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="706" y1="88" x2="835" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="706" y1="88" x2="706" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="792" y1="88" x2="878" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="792" y1="88" x2="835" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="792" y1="88" x2="749" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="792" y1="88" x2="921" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="792" y1="88" x2="792" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="878" y1="88" x2="964" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="878" y1="88" x2="921" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="878" y1="88" x2="835" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="878" y1="88" x2="1007" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="878" y1="88" x2="878" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="964" y1="88" x2="1050" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="964" y1="88" x2="1007" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="964" y1="88" x2="921" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="964" y1="88" x2="1093" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="964" y1="88" x2="964" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1050" y1="88" x2="1136" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1050" y1="88" x2="1093" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1050" y1="88" x2="1007" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1050" y1="88" x2="1179" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1050" y1="88" x2="1050" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1136" y1="88" x2="1222" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1136" y1="88" x2="1179" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1136" y1="88" x2="1093" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1136" y1="88" x2="1265" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1136" y1="88" x2="1136" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1222" y1="88" x2="1308" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1222" y1="88" x2="1265" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1222" y1="88" x2="1179" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1222" y1="88" x2="1351" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1222" y1="88" x2="1222" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1308" y1="88" x2="1394" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1308" y1="88" x2="1351" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1308" y1="88" x2="1265" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1308" y1="88" x2="1437" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1308" y1="88" x2="1308" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1394" y1="88" x2="1480" y2="88" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1394" y1="88" x2="1437" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1394" y1="88" x2="1351" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1394" y1="88" x2="1523" y2="120" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1394" y1="88" x2="1394" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1480" y1="88" x2="1523" y2="120" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1480" y1="88" x2="1437" y2="120" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1480" y1="88" x2="1480" y2="152" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="61" y1="120" x2="147" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="61" y1="120" x2="18" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="61" y1="120" x2="104" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="61" y1="120" x2="61" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="147" y1="120" x2="233" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="147" y1="120" x2="104" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="147" y1="120" x2="18" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="147" y1="120" x2="190" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="147" y1="120" x2="147" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="233" y1="120" x2="319" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="233" y1="120" x2="190" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="233" y1="120" x2="104" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="233" y1="120" x2="276" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="233" y1="120" x2="233" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="319" y1="120" x2="405" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="319" y1="120" x2="276" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="319" y1="120" x2="190" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="319" y1="120" x2="362" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="319" y1="120" x2="319" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="405" y1="120" x2="491" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="405" y1="120" x2="362" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="405" y1="120" x2="276" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="405" y1="120" x2="448" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="405" y1="120" x2="405" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="491" y1="120" x2="577" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="491" y1="120" x2="448" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="491" y1="120" x2="362" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="491" y1="120" x2="534" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="491" y1="120" x2="491" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="577" y1="120" x2="663" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="577" y1="120" x2="534" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="577" y1="120" x2="448" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="577" y1="120" x2="620" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="577" y1="120" x2="577" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="663" y1="120" x2="749" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="663" y1="120" x2="620" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="663" y1="120" x2="534" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="663" y1="120" x2="706" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="663" y1="120" x2="663" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="749" y1="120" x2="835" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="749" y1="120" x2="706" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="749" y1="120" x2="620" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="749" y1="120" x2="792" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="749" y1="120" x2="749" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="835" y1="120" x2="921" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="835" y1="120" x2="792" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="835" y1="120" x2="706" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="835" y1="120" x2="878" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="835" y1="120" x2="835" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="921" y1="120" x2="1007" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="921" y1="120" x2="878" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="921" y1="120" x2="792" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="921" y1="120" x2="964" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="921" y1="120" x2="921" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1007" y1="120" x2="1093" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1007" y1="120" x2="964" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1007" y1="120" x2="878" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1007" y1="120" x2="1050" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1007" y1="120" x2="1007" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1093" y1="120" x2="1179" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1093" y1="120" x2="1050" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1093" y1="120" x2="964" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1093" y1="120" x2="1136" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1093" y1="120" x2="1093" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1179" y1="120" x2="1265" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1179" y1="120" x2="1136" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1179" y1="120" x2="1050" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1179" y1="120" x2="1222" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1179" y1="120" x2="1179" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1265" y1="120" x2="1351" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1265" y1="120" x2="1222" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1265" y1="120" x2="1136" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1265" y1="120" x2="1308" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1265" y1="120" x2="1265" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1351" y1="120" x2="1437" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1351" y1="120" x2="1308" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1351" y1="120" x2="1222" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1351" y1="120" x2="1394" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1351" y1="120" x2="1351" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1437" y1="120" x2="1523" y2="120" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1437" y1="120" x2="1394" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1437" y1="120" x2="1308" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1437" y1="120" x2="1480" y2="152" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1437" y1="120" x2="1437" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1523" y1="120" x2="1480" y2="152" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1523" y1="120" x2="1394" y2="152" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1523" y1="120" x2="1523" y2="184" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="18" y1="152" x2="104" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="18" y1="152" x2="61" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="18" y1="152" x2="147" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="18" y1="152" x2="18" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="104" y1="152" x2="190" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="104" y1="152" x2="147" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="104" y1="152" x2="61" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="104" y1="152" x2="233" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="104" y1="152" x2="104" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="190" y1="152" x2="276" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="190" y1="152" x2="233" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="190" y1="152" x2="147" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="190" y1="152" x2="319" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="190" y1="152" x2="190" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="276" y1="152" x2="362" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="276" y1="152" x2="319" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="276" y1="152" x2="233" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="276" y1="152" x2="405" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="276" y1="152" x2="276" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="362" y1="152" x2="448" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="362" y1="152" x2="405" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="362" y1="152" x2="319" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="362" y1="152" x2="491" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="362" y1="152" x2="362" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="448" y1="152" x2="534" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="448" y1="152" x2="491" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="448" y1="152" x2="405" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="448" y1="152" x2="577" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="448" y1="152" x2="448" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="534" y1="152" x2="620" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="534" y1="152" x2="577" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="534" y1="152" x2="491" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="534" y1="152" x2="663" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="534" y1="152" x2="534" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="620" y1="152" x2="706" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="620" y1="152" x2="663" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="620" y1="152" x2="577" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="620" y1="152" x2="749" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="620" y1="152" x2="620" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="706" y1="152" x2="792" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="706" y1="152" x2="749" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="706" y1="152" x2="663" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="706" y1="152" x2="835" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="706" y1="152" x2="706" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="792" y1="152" x2="878" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="792" y1="152" x2="835" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="792" y1="152" x2="749" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="792" y1="152" x2="921" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="792" y1="152" x2="792" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="878" y1="152" x2="964" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="878" y1="152" x2="921" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="878" y1="152" x2="835" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="878" y1="152" x2="1007" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="878" y1="152" x2="878" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="964" y1="152" x2="1050" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="964" y1="152" x2="1007" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="964" y1="152" x2="921" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="964" y1="152" x2="1093" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="964" y1="152" x2="964" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1050" y1="152" x2="1136" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1050" y1="152" x2="1093" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1050" y1="152" x2="1007" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1050" y1="152" x2="1179" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1050" y1="152" x2="1050" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1136" y1="152" x2="1222" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1136" y1="152" x2="1179" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1136" y1="152" x2="1093" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1136" y1="152" x2="1265" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1136" y1="152" x2="1136" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1222" y1="152" x2="1308" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1222" y1="152" x2="1265" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1222" y1="152" x2="1179" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1222" y1="152" x2="1351" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1222" y1="152" x2="1222" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1308" y1="152" x2="1394" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1308" y1="152" x2="1351" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1308" y1="152" x2="1265" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1308" y1="152" x2="1437" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1308" y1="152" x2="1308" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1394" y1="152" x2="1480" y2="152" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1394" y1="152" x2="1437" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1394" y1="152" x2="1351" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1394" y1="152" x2="1523" y2="184" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1394" y1="152" x2="1394" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1480" y1="152" x2="1523" y2="184" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1480" y1="152" x2="1437" y2="184" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1480" y1="152" x2="1480" y2="216" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="61" y1="184" x2="147" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="61" y1="184" x2="18" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="61" y1="184" x2="104" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="61" y1="184" x2="61" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="147" y1="184" x2="233" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="147" y1="184" x2="104" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="147" y1="184" x2="18" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="147" y1="184" x2="190" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="147" y1="184" x2="147" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="233" y1="184" x2="319" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="233" y1="184" x2="190" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="233" y1="184" x2="104" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="233" y1="184" x2="276" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="233" y1="184" x2="233" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="319" y1="184" x2="405" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="319" y1="184" x2="276" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="319" y1="184" x2="190" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="319" y1="184" x2="362" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="319" y1="184" x2="319" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="405" y1="184" x2="491" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="405" y1="184" x2="362" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="405" y1="184" x2="276" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="405" y1="184" x2="448" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="405" y1="184" x2="405" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="491" y1="184" x2="577" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="491" y1="184" x2="448" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="491" y1="184" x2="362" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="491" y1="184" x2="534" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="491" y1="184" x2="491" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="577" y1="184" x2="663" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="577" y1="184" x2="534" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="577" y1="184" x2="448" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="577" y1="184" x2="620" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="577" y1="184" x2="577" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="663" y1="184" x2="749" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="663" y1="184" x2="620" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="663" y1="184" x2="534" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="663" y1="184" x2="706" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="663" y1="184" x2="663" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="749" y1="184" x2="835" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="749" y1="184" x2="706" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="749" y1="184" x2="620" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="749" y1="184" x2="792" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="749" y1="184" x2="749" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="835" y1="184" x2="921" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="835" y1="184" x2="792" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="835" y1="184" x2="706" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="835" y1="184" x2="878" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="835" y1="184" x2="835" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="921" y1="184" x2="1007" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="921" y1="184" x2="878" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="921" y1="184" x2="792" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="921" y1="184" x2="964" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="921" y1="184" x2="921" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1007" y1="184" x2="1093" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1007" y1="184" x2="964" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1007" y1="184" x2="878" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1007" y1="184" x2="1050" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1007" y1="184" x2="1007" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1093" y1="184" x2="1179" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1093" y1="184" x2="1050" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1093" y1="184" x2="964" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1093" y1="184" x2="1136" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1093" y1="184" x2="1093" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1179" y1="184" x2="1265" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1179" y1="184" x2="1136" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1179" y1="184" x2="1050" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1179" y1="184" x2="1222" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1179" y1="184" x2="1179" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1265" y1="184" x2="1351" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1265" y1="184" x2="1222" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1265" y1="184" x2="1136" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1265" y1="184" x2="1308" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1265" y1="184" x2="1265" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1351" y1="184" x2="1437" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1351" y1="184" x2="1308" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1351" y1="184" x2="1222" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1351" y1="184" x2="1394" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1351" y1="184" x2="1351" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1437" y1="184" x2="1523" y2="184" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1437" y1="184" x2="1394" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1437" y1="184" x2="1308" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1437" y1="184" x2="1480" y2="216" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1437" y1="184" x2="1437" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1523" y1="184" x2="1480" y2="216" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1523" y1="184" x2="1394" y2="216" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1523" y1="184" x2="1523" y2="248" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="18" y1="216" x2="104" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="18" y1="216" x2="61" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="18" y1="216" x2="147" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="18" y1="216" x2="18" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="104" y1="216" x2="190" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="104" y1="216" x2="147" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="104" y1="216" x2="61" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="104" y1="216" x2="233" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="104" y1="216" x2="104" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="190" y1="216" x2="276" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="190" y1="216" x2="233" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="190" y1="216" x2="147" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="190" y1="216" x2="319" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="190" y1="216" x2="190" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="276" y1="216" x2="362" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="276" y1="216" x2="319" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="276" y1="216" x2="233" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="276" y1="216" x2="405" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="276" y1="216" x2="276" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="362" y1="216" x2="448" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="362" y1="216" x2="405" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="362" y1="216" x2="319" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="362" y1="216" x2="491" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="362" y1="216" x2="362" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="448" y1="216" x2="534" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="448" y1="216" x2="491" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="448" y1="216" x2="405" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="448" y1="216" x2="577" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="448" y1="216" x2="448" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="534" y1="216" x2="620" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="534" y1="216" x2="577" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="534" y1="216" x2="491" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="534" y1="216" x2="663" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="534" y1="216" x2="534" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="620" y1="216" x2="706" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="620" y1="216" x2="663" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="620" y1="216" x2="577" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="620" y1="216" x2="749" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="620" y1="216" x2="620" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="706" y1="216" x2="792" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="706" y1="216" x2="749" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="706" y1="216" x2="663" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="706" y1="216" x2="835" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="706" y1="216" x2="706" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="792" y1="216" x2="878" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="792" y1="216" x2="835" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="792" y1="216" x2="749" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="792" y1="216" x2="921" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="792" y1="216" x2="792" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="878" y1="216" x2="964" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="878" y1="216" x2="921" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="878" y1="216" x2="835" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="878" y1="216" x2="1007" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="878" y1="216" x2="878" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="964" y1="216" x2="1050" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="964" y1="216" x2="1007" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="964" y1="216" x2="921" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="964" y1="216" x2="1093" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="964" y1="216" x2="964" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1050" y1="216" x2="1136" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1050" y1="216" x2="1093" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1050" y1="216" x2="1007" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1050" y1="216" x2="1179" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1050" y1="216" x2="1050" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1136" y1="216" x2="1222" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1136" y1="216" x2="1179" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1136" y1="216" x2="1093" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1136" y1="216" x2="1265" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1136" y1="216" x2="1136" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1222" y1="216" x2="1308" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1222" y1="216" x2="1265" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1222" y1="216" x2="1179" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1222" y1="216" x2="1351" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1222" y1="216" x2="1222" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1308" y1="216" x2="1394" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1308" y1="216" x2="1351" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1308" y1="216" x2="1265" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1308" y1="216" x2="1437" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1308" y1="216" x2="1308" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1394" y1="216" x2="1480" y2="216" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1394" y1="216" x2="1437" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1394" y1="216" x2="1351" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1394" y1="216" x2="1523" y2="248" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1394" y1="216" x2="1394" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1480" y1="216" x2="1523" y2="248" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1480" y1="216" x2="1437" y2="248" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1480" y1="216" x2="1480" y2="280" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="61" y1="248" x2="147" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="61" y1="248" x2="18" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="61" y1="248" x2="104" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="61" y1="248" x2="61" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="147" y1="248" x2="233" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="147" y1="248" x2="104" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="147" y1="248" x2="18" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="147" y1="248" x2="190" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="147" y1="248" x2="147" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="233" y1="248" x2="319" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="233" y1="248" x2="190" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="233" y1="248" x2="104" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="233" y1="248" x2="276" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="233" y1="248" x2="233" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="319" y1="248" x2="405" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="319" y1="248" x2="276" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="319" y1="248" x2="190" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="319" y1="248" x2="362" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="319" y1="248" x2="319" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="405" y1="248" x2="491" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="405" y1="248" x2="362" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="405" y1="248" x2="276" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="405" y1="248" x2="448" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="405" y1="248" x2="405" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="491" y1="248" x2="577" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="491" y1="248" x2="448" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="491" y1="248" x2="362" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="491" y1="248" x2="534" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="491" y1="248" x2="491" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="577" y1="248" x2="663" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="577" y1="248" x2="534" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="577" y1="248" x2="448" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="577" y1="248" x2="620" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="577" y1="248" x2="577" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="663" y1="248" x2="749" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="663" y1="248" x2="620" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="663" y1="248" x2="534" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="663" y1="248" x2="706" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="663" y1="248" x2="663" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="749" y1="248" x2="835" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="749" y1="248" x2="706" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="749" y1="248" x2="620" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="749" y1="248" x2="792" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="749" y1="248" x2="749" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="835" y1="248" x2="921" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="835" y1="248" x2="792" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="835" y1="248" x2="706" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="835" y1="248" x2="878" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="835" y1="248" x2="835" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="921" y1="248" x2="1007" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="921" y1="248" x2="878" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="921" y1="248" x2="792" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="921" y1="248" x2="964" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="921" y1="248" x2="921" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1007" y1="248" x2="1093" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1007" y1="248" x2="964" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1007" y1="248" x2="878" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1007" y1="248" x2="1050" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1007" y1="248" x2="1007" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1093" y1="248" x2="1179" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1093" y1="248" x2="1050" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1093" y1="248" x2="964" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1093" y1="248" x2="1136" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1093" y1="248" x2="1093" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1179" y1="248" x2="1265" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1179" y1="248" x2="1136" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1179" y1="248" x2="1050" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1179" y1="248" x2="1222" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1179" y1="248" x2="1179" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1265" y1="248" x2="1351" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1265" y1="248" x2="1222" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1265" y1="248" x2="1136" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1265" y1="248" x2="1308" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1265" y1="248" x2="1265" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1351" y1="248" x2="1437" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1351" y1="248" x2="1308" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1351" y1="248" x2="1222" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1351" y1="248" x2="1394" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1351" y1="248" x2="1351" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1437" y1="248" x2="1523" y2="248" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1437" y1="248" x2="1394" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1437" y1="248" x2="1308" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1437" y1="248" x2="1480" y2="280" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1437" y1="248" x2="1437" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="1523" y1="248" x2="1480" y2="280" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1523" y1="248" x2="1394" y2="280" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1523" y1="248" x2="1523" y2="312" stroke-width="0.9" opacity="0.34"/>
+    <line class="mesh" x1="18" y1="280" x2="104" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="18" y1="280" x2="61" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="18" y1="280" x2="147" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="104" y1="280" x2="190" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="104" y1="280" x2="147" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="104" y1="280" x2="61" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="104" y1="280" x2="233" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="190" y1="280" x2="276" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="190" y1="280" x2="233" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="190" y1="280" x2="147" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="190" y1="280" x2="319" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="276" y1="280" x2="362" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="276" y1="280" x2="319" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="276" y1="280" x2="233" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="276" y1="280" x2="405" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="362" y1="280" x2="448" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="362" y1="280" x2="405" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="362" y1="280" x2="319" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="362" y1="280" x2="491" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="448" y1="280" x2="534" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="448" y1="280" x2="491" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="448" y1="280" x2="405" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="448" y1="280" x2="577" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="534" y1="280" x2="620" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="534" y1="280" x2="577" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="534" y1="280" x2="491" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="534" y1="280" x2="663" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="620" y1="280" x2="706" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="620" y1="280" x2="663" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="620" y1="280" x2="577" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="620" y1="280" x2="749" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="706" y1="280" x2="792" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="706" y1="280" x2="749" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="706" y1="280" x2="663" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="706" y1="280" x2="835" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="792" y1="280" x2="878" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="792" y1="280" x2="835" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="792" y1="280" x2="749" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="792" y1="280" x2="921" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="878" y1="280" x2="964" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="878" y1="280" x2="921" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="878" y1="280" x2="835" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="878" y1="280" x2="1007" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="964" y1="280" x2="1050" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="964" y1="280" x2="1007" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="964" y1="280" x2="921" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="964" y1="280" x2="1093" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1050" y1="280" x2="1136" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1050" y1="280" x2="1093" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1050" y1="280" x2="1007" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1050" y1="280" x2="1179" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1136" y1="280" x2="1222" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1136" y1="280" x2="1179" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1136" y1="280" x2="1093" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1136" y1="280" x2="1265" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1222" y1="280" x2="1308" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1222" y1="280" x2="1265" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1222" y1="280" x2="1179" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1222" y1="280" x2="1351" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1308" y1="280" x2="1394" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1308" y1="280" x2="1351" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1308" y1="280" x2="1265" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1308" y1="280" x2="1437" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1394" y1="280" x2="1480" y2="280" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1394" y1="280" x2="1437" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1394" y1="280" x2="1351" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="1394" y1="280" x2="1523" y2="312" stroke-width="1.05" opacity="0.50"/>
+    <line class="mesh" x1="1480" y1="280" x2="1523" y2="312" stroke-width="1.55" opacity="0.72"/>
+    <line class="mesh" x1="1480" y1="280" x2="1437" y2="312" stroke-width="1.05" opacity="0.52"/>
+    <line class="mesh" x1="61" y1="312" x2="147" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="147" y1="312" x2="233" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="233" y1="312" x2="319" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="319" y1="312" x2="405" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="405" y1="312" x2="491" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="491" y1="312" x2="577" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="577" y1="312" x2="663" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="663" y1="312" x2="749" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="749" y1="312" x2="835" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="835" y1="312" x2="921" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="921" y1="312" x2="1007" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1007" y1="312" x2="1093" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1093" y1="312" x2="1179" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1179" y1="312" x2="1265" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1265" y1="312" x2="1351" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1351" y1="312" x2="1437" y2="312" stroke-width="1.2" opacity="0.54"/>
+    <line class="mesh" x1="1437" y1="312" x2="1523" y2="312" stroke-width="1.2" opacity="0.54"/>
+    </g>
+    <g>
+    <circle class="node node-warm" cx="18" cy="24" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="104" cy="24" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="190" cy="24" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="276" cy="24" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="362" cy="24" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="448" cy="24" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="534" cy="24" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="620" cy="24" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="706" cy="24" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="792" cy="24" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="878" cy="24" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="964" cy="24" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1050" cy="24" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1136" cy="24" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1222" cy="24" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1308" cy="24" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1394" cy="24" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1480" cy="24" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="61" cy="56" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="147" cy="56" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="233" cy="56" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="319" cy="56" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="405" cy="56" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="491" cy="56" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="577" cy="56" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="663" cy="56" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="749" cy="56" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="835" cy="56" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="921" cy="56" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1007" cy="56" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1093" cy="56" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1179" cy="56" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1265" cy="56" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1351" cy="56" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1437" cy="56" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1523" cy="56" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="18" cy="88" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="104" cy="88" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="190" cy="88" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="276" cy="88" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="362" cy="88" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="448" cy="88" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="534" cy="88" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="620" cy="88" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="706" cy="88" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="792" cy="88" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="878" cy="88" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="964" cy="88" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1050" cy="88" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1136" cy="88" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1222" cy="88" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1308" cy="88" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1394" cy="88" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1480" cy="88" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="61" cy="120" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="147" cy="120" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="233" cy="120" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="319" cy="120" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="405" cy="120" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="491" cy="120" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="577" cy="120" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="663" cy="120" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="749" cy="120" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="835" cy="120" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="921" cy="120" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1007" cy="120" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1093" cy="120" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1179" cy="120" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1265" cy="120" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1351" cy="120" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1437" cy="120" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1523" cy="120" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="18" cy="152" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="104" cy="152" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="190" cy="152" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="276" cy="152" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="362" cy="152" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="448" cy="152" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="534" cy="152" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="620" cy="152" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="706" cy="152" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="792" cy="152" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="878" cy="152" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="964" cy="152" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1050" cy="152" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1136" cy="152" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1222" cy="152" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1308" cy="152" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1394" cy="152" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1480" cy="152" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="61" cy="184" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="147" cy="184" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="233" cy="184" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="319" cy="184" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="405" cy="184" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="491" cy="184" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="577" cy="184" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="663" cy="184" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="749" cy="184" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="835" cy="184" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="921" cy="184" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1007" cy="184" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1093" cy="184" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1179" cy="184" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1265" cy="184" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1351" cy="184" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1437" cy="184" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1523" cy="184" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="18" cy="216" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="104" cy="216" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="190" cy="216" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="276" cy="216" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="362" cy="216" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="448" cy="216" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="534" cy="216" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="620" cy="216" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="706" cy="216" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="792" cy="216" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="878" cy="216" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="964" cy="216" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1050" cy="216" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1136" cy="216" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1222" cy="216" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1308" cy="216" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1394" cy="216" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1480" cy="216" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="61" cy="248" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="147" cy="248" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="233" cy="248" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="319" cy="248" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="405" cy="248" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="491" cy="248" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="577" cy="248" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="663" cy="248" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="749" cy="248" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="835" cy="248" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="921" cy="248" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1007" cy="248" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1093" cy="248" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1179" cy="248" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1265" cy="248" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1351" cy="248" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1437" cy="248" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1523" cy="248" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="18" cy="280" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="104" cy="280" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="190" cy="280" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="276" cy="280" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="362" cy="280" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="448" cy="280" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="534" cy="280" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="620" cy="280" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="706" cy="280" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="792" cy="280" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="878" cy="280" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="964" cy="280" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1050" cy="280" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1136" cy="280" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1222" cy="280" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1308" cy="280" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1394" cy="280" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1480" cy="280" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="61" cy="312" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="147" cy="312" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="233" cy="312" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="319" cy="312" r="3.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="405" cy="312" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="491" cy="312" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="577" cy="312" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="663" cy="312" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="749" cy="312" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="835" cy="312" r="2.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="921" cy="312" r="4.1"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1007" cy="312" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1093" cy="312" r="3.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle class="node node-warm" cx="1179" cy="312" r="3.8"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.8s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle class="node node-cool" cx="1265" cy="312" r="2.9"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="7.4s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.8 -2.2; -1.2 1.3; 0 0" dur="10.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle class="node node-bright" cx="1351" cy="312" r="4.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5.4s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.5 1.9; 1.1 -1.2; 0 0" dur="11.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1437" cy="312" r="3.2"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="5.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; 1.1 1.6; -1.7 -1.4; 0 0" dur="9.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="1523" cy="312" r="3.4"><animate attributeName="opacity" values="0.22;0.88;0.22" dur="6.2s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0; -1.2 -1.8; 1.9 1.2; 0 0" dur="12.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    </g>
+    <g opacity="0.001">
+    <path id="pulseRouteA" d="M18 24L147 56L276 88L405 120L534 152L663 184L792 216L921 184L1050 152L1179 120L1308 88L1437 56"/>
+    <path id="pulseRouteB" d="M61 88L190 120L319 152L448 184L577 216L706 248L835 280L964 248L1093 216L1222 184L1351 152L1480 120"/>
+    <path id="pulseRouteC" d="M18 152L147 184L276 216L405 248L534 280L663 312L792 280L921 248L1050 216L1179 248L1308 280L1437 312"/>
+    </g>
+    <g>
+      <circle r="7.2" fill="#101212" opacity="0.95">
+        <animateMotion dur="7.6s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#pulseRouteA"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0.28;1;0.28" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6.4" fill="#101212" opacity="0.9">
+        <animateMotion dur="8.8s" begin="1.2s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#pulseRouteB"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="5.6" fill="#101212" opacity="0.82">
+        <animateMotion dur="9.4s" begin="2.1s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#pulseRouteC"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0.18;0.82;0.18" dur="3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+    <g fill="none" stroke="#101212" stroke-width="3.85" stroke-linejoin="round" stroke-linecap="round" opacity="0.92">
+    <path d="M144 109C144 197.84 144 339 144 339H195V109C203.4 83.31 216.54 76.08 242 75C266.93 74.39 284.7 90.42 292 109H339C332.17 87.26 326.24 75.76 301.5 59C265.87 37.95 245.46 36.08 208.5 45.5L169.5 0L130.5 45.5C93.54 36.08 73.13 37.95 37.5 59C12.76 75.76 6.83 87.26 0 109H47C54.3 90.42 72.07 74.39 97 75C122.46 76.08 135.6 83.31 144 109Z"/>
+  </g>
+</svg>
+
